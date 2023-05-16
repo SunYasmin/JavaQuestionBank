@@ -1,4 +1,4 @@
-package Variables;
+package po1_variables;
 
 public class Q01 {
     // Create double variables for the prices of any 3 items. Print the sum of prices on the console with label.

@@ -1,4 +1,4 @@
-package Variables;
+package po1_variables;
 
 public class Q04 {
     /**Create a String and two Long variables.

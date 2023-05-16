@@ -1,4 +1,4 @@
-package Variables;
+package po1_variables;
 
 public class Q05 {
     /*

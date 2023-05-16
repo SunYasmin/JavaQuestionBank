@@ -1,4 +1,4 @@
-package Variables;
+package po1_variables;
 
 import java.util.Scanner;
 

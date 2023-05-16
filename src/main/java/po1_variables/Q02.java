@@ -1,4 +1,4 @@
-package Variables;
+package po1_variables;
 
 public class Q02 {
     //Creat a float variable, a long variable, and an integer variablefor any 3 items.
