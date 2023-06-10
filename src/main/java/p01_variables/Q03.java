@@ -1,4 +1,4 @@
-package po1_variables;
+package p01_variables;
 
 public class Q03 {
     //Type a code to find simple interest,
