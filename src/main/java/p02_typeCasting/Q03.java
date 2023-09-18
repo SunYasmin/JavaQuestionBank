@@ -7,5 +7,7 @@ public class Q03 {
     public static void main(String[] args) {
         double price = 2.34;
         float newPrice = (float) price;
+
+        System.out.println(newPrice);
     }
 }
